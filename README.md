@@ -1,3 +1,23 @@
+# Deep Learning: Convolutional Neural Networks (CNN)  
+
+In this fourth portfolio piece, you will see the development of a CNN to build a computer vision model that categorizes images of clothing articles. The model showcased in this project categorized images with a 93% accuracy score. Details about the dataset and similar project examples can be found below:
+
+https://github.com/zalandoresearch/fashion-mnist
+
+https://www.kaggle.com/zalando-research/fashionmnist
+
+In navigating the documents in this repository, please see the following main pages:
+
+(1) Student_Final.ipynb - notebook containing all the code that created this project.
+
+(2) Presentation.pdf - a non-technical presentation w/ notes.
+
+(3) Blog post link: 
+
+Below, you will see the details and requirements of this project as created by the Flatiron School:
+
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
 
 # Module 4 Final Project
 

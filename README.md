@@ -8,11 +8,11 @@ https://www.kaggle.com/zalando-research/fashionmnist
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) Student_Final.ipynb - notebook containing all the code that created this project.
+(1) FinalNotebook.ipynb - notebook containing all the code that created this project.
 
 (2) Presentation.pdf - a non-technical presentation w/ notes.
 
-(3) Blog post link: 
+(3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/cnn-glossary
 
 Below, you will see the details and requirements of this project as created by the Flatiron School:
 
